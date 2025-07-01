@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "id": "4ea4",
+      "title": "wedding ceremony",
+      "date": "2025-07-26",
+      "location": "mumbai",
+      "type": "reception"
+    },
+    {
+      "id": "831e",
+      "title": "birthday",
+      "date": "2025-07-31",
+      "location": "mumbai",
+      "type": "Birthday"
+    },
+    {
+      "id": "ea4c",
+      "title": "bridal shower",
+      "date": "2025-08-01",
+      "location": "Kochi",
+      "type": "Party"
+    },
+    {
+      "id": "621f",
+      "title": "house warming",
+      "date": "2025-07-31",
+      "location": "Mumbai",
+      "type": "party"
+    },
+    {
+      "id": "a471",
+      "title": "",
+      "date": "",
+      "location": "",
+      "type": ""
+    }
+  ]
+}
